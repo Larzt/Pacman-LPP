@@ -1,0 +1,32 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAUFVVAAAAAFBVVVVVAAAAVVVVVVUFAABVVVVVVQUAUFVVVVVVVQBQVVUFVVVVAFBVVQVVVVUAUFVVAFBVVQBQ9VUAUFVVAABVVQBQVQUAAFUFAABVBQAAUAUAAFUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pacman1"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAABmZmZmBgAAYGZmZmZmAABgZv9mZgYAAGZm/2ZmZgAAZmZmZmYGAABmZmZmZmYAAGZmZmZmBgAAZmb/ZmZmAABgZv9mZgYAAGBmZmZmZgAAAGZmZmYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ghost1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMzMzAwAAMDMzMzMzAAAwM/8zMwMAADMz/zMzMwAAMzMzMzMDAAAzMzMzMzMAADMzMzMzAwAAMzP/MzMzAAAwM/8zMwMAADAzMzMzMwAAADMzMzMDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ghost2"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAACqqqqqCgAAoKqqqqqqAACgqv+qqgoAAKqq/6qqqgAAqqqqqqoKAACqqqqqqqoAAKqqqqqqCgAAqqr/qqqqAACgqv+qqgoAAKCqqqqqqgAAAKqqqqoKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ghost3"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFBVVQUAAAAAVVVVVQAAAFBVERFVBQAAUBVVVVEFAABQFVVVUQUAAFAVVVVRBQAAUBVVVVEFAABQVVVVVQUAAABVVVVVAAAAAFBVVQUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coin"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
