@@ -1,7 +1,7 @@
  
 
 
-> Abra esta pagina en [Pacman-LPP]([https://larzt.github.io/pacman-lpp/](https://github.com/Larzt/Pacman-LPP.git))
+> Abra esta pagina en [[Pacman-LPP]([https://larzt.github.io/pacman-lpp/](https://github.com/Larzt/Pacman-LPP.git))](https://github.com/Larzt/Pacman-LPP.gi)
 
 ## Usar como extensión
 
